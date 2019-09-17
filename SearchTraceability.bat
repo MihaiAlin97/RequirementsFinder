@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -windowstyle hidden -Sta -noexit -file %~dp0SearchTraceability.ps1
