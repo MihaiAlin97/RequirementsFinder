@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -Sta -noexit  -file %~dp0ReqFinder.ps1
